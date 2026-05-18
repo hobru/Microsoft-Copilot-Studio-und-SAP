@@ -5,25 +5,25 @@
 Now that we have a basic understanding of OData Service, the next step is to connect Copilot Studio to an OData service. 
 We will do a simple integration to show the concept and outline how easily it can be to connect. 
 
-In Copilot Studio go to Agents and click on "+ Create blank agent"
+In [Copilot Studio](https://copilotstudio.microsoft.com/) go to **Agents** and click on **+ Create blank agent**
 ![Create a new blank agent](../images/A-CreateAgent.png)
 
-Enter the name ````GWSAMPLE - Basic```` and click on Create
+Enter the name ````GWSAMPLE - Basic```` and click on **Create**
 ![Enter agent name GWSAMPLE Basic](../images/B-AgentName.png)
 
-Once the Agent is setup, go to Tools and click on "+ Add a tool"
+Once the Agent is setup, go to **Tools** and click on **"+ Add a tool"**
 ![Add a tool to the agent](../images/D-AddATool.png)
 
-Search for OData and select the **Query OData Entities** tool
+Search for **OData** and select the **Query OData Entities** tool
 ![Search for Query OData Entities tool](../images/E-QueryODataEnttity.png)
 
 In the first step we need to create a connection to the SAP system. Click on **Connection** and select **Create new connection**
 ![Create new OData connection](../images/F-CreateNewConnection.png)
 
 The SAP OData Connector in Copilot Studio allows you to browse available Entity Sets. So enter the OData Base URI for the GWSAMPLE Service:
-OData Base URI: https://microsoftintegrationdemo.com:44301/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/
-Username: SYNTAX01
-Password: <as provided>
+* OData Base URI: https://microsoftintegrationdemo.com:44301/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/
+* Username: SYNTAX01
+* Password: <as provided>
 
 ![Enter OData connection details](../images/G-EnterConnectionDetails.png)
 
