@@ -27,46 +27,9 @@ For Copilot Studio everyone will get their own Microsoft Entra ID user. Password
 
 |User ID |
 |----|
-student0**01**@M365x**75849431**.OnMicrosoft.com
-student0**02**@M365x**75849431**.OnMicrosoft.com
-student0**03**@M365x**75849431**.OnMicrosoft.com
-student0**04**@M365x**75849431**.OnMicrosoft.comOK, 
-student0**05**@M365x**75849431**.OnMicrosoft.com
-student0**06**@M365x**75849431**.OnMicrosoft.com
-student0**07**@M365x**75849431**.OnMicrosoft.com
-student0**08**@M365x**75849431**.OnMicrosoft.com
-student0**09**@M365x**75849431**.OnMicrosoft.com
-student0**10**@M365x**75849431**.OnMicrosoft.com
-student0**11**@M365x**75849431**.OnMicrosoft.com
-student0**12**@M365x**75849431**.OnMicrosoft.com
-student0**13**@M365x**75849431**.OnMicrosoft.com
-student0**14**@M365x**75849431**.OnMicrosoft.com
-student0**15**@M365x**75849431**.OnMicrosoft.com
-student0**16**@M365x**75849431**.OnMicrosoft.com
-student0**17**@M365x**75849431**.OnMicrosoft.com
-student0**18**@M365x**75849431**.OnMicrosoft.com
-student0**19**@M365x**75849431**.OnMicrosoft.com
-student0**20**@M365x**75849431**.OnMicrosoft.com
-student0**31**@M365x**49933862**.OnMicrosoft.com
-student0**32**@M365x**49933862**.OnMicrosoft.com
-student0**33**@M365x**49933862**.OnMicrosoft.com
-student0**34**@M365x**49933862**.OnMicrosoft.com
-student0**35**@M365x**49933862**.OnMicrosoft.com
-student0**36**@M365x**49933862**.OnMicrosoft.com
-student0**37**@M365x**49933862**.OnMicrosoft.com
-student0**38**@M365x**49933862**.OnMicrosoft.com
-student0**39**@M365x**49933862**.OnMicrosoft.com
-student0**40**@M365x**49933862**.OnMicrosoft.com
-student0**41**@M365x**49933862**.OnMicrosoft.com
-student0**42**@M365x**49933862**.OnMicrosoft.com
-student0**43**@M365x**49933862**.OnMicrosoft.com
-student0**44**@M365x**49933862**.OnMicrosoft.com
-student0**45**@M365x**49933862**.OnMicrosoft.com
-student0**46**@M365x**49933862**.OnMicrosoft.com
-student0**47**@M365x**49933862**.OnMicrosoft.com
-student0**48**@M365x**49933862**.OnMicrosoft.com
-student0**49**@M365x**49933862**.OnMicrosoft.com
-student0**50**@M365x**49933862**.OnMicrosoft.com
+student0**01**@tws22.onmicrosoft.com
+...
+student0**25**@tws22.onmicrosoft.com
 
 ## Getting started
 ### Prepare the User

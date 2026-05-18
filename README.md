@@ -60,3 +60,17 @@ Im Fokus der Veranstaltung steht die Kombination von **Microsoft Copilot Studio*
 ## ➡️ Anmeldung / Registration
 
 **[🔗 Jetzt anmelden / Register here](https://forms.office.com/Pages/ResponsePage.aspx?id=FoihR0Mg0EyL9ODJQtjC1i_crxN6AHZErYdYZbOwqedUM1NDWkk4N1hONFRXNDhMV0MwQ004RTBMVS4u)**
+
+
+---
+
+## 🧪 Further documentation
+
+Make sure to check out the official documentation at https://learn.microsoft.com/en-us/azure/sap/microsoft-ai/about-sap-with-microsoft-ai
+
+In addition to that the SAP on [Azure YouTube Channel](https://www.youtube.com/SAPonAzure) provides regular updates and content on SAP and Microsoft. The following videos might also be relevant
+* [Copilot Studio + SAP: Dynamic SAP OData calls](https://youtu.be/zt62mhPr_k0?si=4HFnTFMdVsSi44Th)
+* [Copilot + SAP: Azure API Management, MCP and SAP OData](https://www.youtube.com/watch?v=69L4UBLdi3g)
+* [Copilot + SAP: Azure API Management, MCP and SAP OData with Copilot Studio](https://www.youtube.com/watch?v=eCvq_l7Igjw)
+* [Copilot Studio + SAP: SAP OData as Knowledge Source](https://www.youtube.com/watch?v=4V9dtkAk-lk)
+
