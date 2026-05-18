@@ -1,5 +1,5 @@
 # Quest 1: Getting started with RFC
-[🏠Home](../README.md) - **[🔌 Quest 2 >](Quest2.md)**
+[🏠Home](../../README.md) - **[🔌 Quest 2 >](Quest2.md)**
 
 ## SAP ERP Connector
 As before the first step is to go to Tools and **+Add a tool**
@@ -89,6 +89,6 @@ Now it is time to integrate this new flow in the agent.
 
 # Where to next?
 
-[🏠Home](../README.md) - **[🔌 Quest 2 >](Quest2.md)**
+[🏠Home](../../README.md) - **[🔌 Quest 2 >](Quest2.md)**
 
 [🔝](#)

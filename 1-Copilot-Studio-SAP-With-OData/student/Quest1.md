@@ -1,8 +1,8 @@
 # Quest 1: Getting started with OData
-[🏠Home](../README.md) - **[🔌 Quest 2 >](Quest2.md)**
+[🏠Home](../../README.md) - **[🔌 Quest 2 >](Quest2.md)**
 
 ## OData Services @ SAP
-OData services are the foundation of many scenarios in SAP. Whether it is SAP Fiori scenarios, CDS Views exposed as OData services or all the thousands of OData services listed on the SAP API Business Accelerator Hub. 
+OData services are the foundation of many scenarios in SAP.Whether it is SAP Fiori scenarios, CDS Views exposed as OData services or all the thousands of OData services listed on the SAP API Business Accelerator Hub. 
 
 In order to better understand how an OData service behaves, let's get started by calling the root service via
 
@@ -58,6 +58,6 @@ But before we go there, let's start with a simple OData integration to Copilot S
 
 # Where to next?
 
-[🏠Home](../README.md) - **[🔌 Quest 2 >](Quest2.md)**
+[🏠Home](../../README.md) - **[🔌 Quest 2 >](Quest2.md)**
 
 [🔝](#)

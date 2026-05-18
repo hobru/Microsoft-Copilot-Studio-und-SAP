@@ -1,5 +1,5 @@
 # Quest 2: Calling Flows from an agent
-[< 🤖 Quest 1](Quest1.md) - [🏠Home](../README.md)
+[< 🤖 Quest 1](Quest1.md) - [🏠Home](../../README.md)
 
 ## Calling a flow/workflow from the Agent
 On the left hand side, click on Agents and select the **GWSAMPLE-BASE** agent we had previously created. 
@@ -35,6 +35,6 @@ Now we are good to go. On the right side enter ````What's the status of sales or
 
 # Where to next?
 
-[< 🤖 Quest 1](Quest1.md) - [🏠Home](../README.md)
+[< 🤖 Quest 1](Quest1.md) - [🏠Home](../../README.md)
 
 [🔝](#)

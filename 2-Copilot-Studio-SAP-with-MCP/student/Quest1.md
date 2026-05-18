@@ -1,5 +1,5 @@
 # Quest 1: Getting Started - Prepare access
-[🏠Home](../README.md) - **[🔌 Quest 2 >](Quest2.md)**
+[🏠Home](../../README.md) - **[🔌 Quest 2 >](Quest2.md)**
 
 
 In this section we will make sure that you have access to all the required system: 
@@ -58,6 +58,6 @@ Click on **Download $metadata-openapi.json** to download the now converted file
 
 # Where to next?
 
-[🏠Home](../README.md) - **[🔌 Quest 2 >](Quest2.md)**
+[🏠Home](../../README.md) - **[🔌 Quest 2 >](Quest2.md)**
 
 [🔝](#)

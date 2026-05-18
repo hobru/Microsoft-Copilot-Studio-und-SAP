@@ -1,5 +1,5 @@
 # Quest 2: Connect to SAP OData Services from Copilot Studio
-[< 🤖 Quest 1](Quest1.md) - [🏠Home](../README.md)
+[< 🤖 Quest 1](Quest1.md) - [🏠Home](../../README.md)
 
 ## Connecting Copilot Studio to OData
 Now that we have a basic understanding of OData Service, the next step is to connect Copilot Studio to an OData service. 
@@ -66,6 +66,6 @@ This section showed how to easily access OData services. More complex OData inte
 
 # Where to next?
 
-[< 🤖 Quest 1](Quest1.md) - [🏠Home](../README.md)
+[< 🤖 Quest 1](Quest1.md) - [🏠Home](../../README.md)
 
 [🔝](#)

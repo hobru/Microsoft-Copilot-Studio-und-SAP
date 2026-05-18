@@ -1,5 +1,5 @@
 # Quest 6: Optional - Explore additional scenarios
-[< 🔌 Quest 5](Quest5.md) - [🏠Home](../README.md)
+[< 🔌 Quest 5](Quest5.md) - [🏠Home](../../README.md)
 
 ## Optional: Explore additional scenarios
 * Feel free to go back to **Azure API Management** and enhance or **add additional tools** to the MCP server. 
@@ -9,7 +9,7 @@
 
 # Where to next?
 
-[< 🔌 Quest 5](Quest5.md) - [🏠Home](../README.md)
+[< 🔌 Quest 5](Quest5.md) - [🏠Home](../../README.md)
 
 [🔝](#)
 
