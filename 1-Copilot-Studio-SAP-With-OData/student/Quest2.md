@@ -38,7 +38,7 @@ To simplify the interaction, expand the **Details** section and under **Addition
 ![Set Maker-provided credentials](../images/I-MakerProvidedCredentials.png)
 
 
-Now when you click on "+ New Test session you can already interact with your SAP system. Start by asking a question ````Show me 5 sales orders````
+Now when you click on **+ New Test session** you can already interact with your SAP system. Start by asking a question ````Show me 5 sales orders````
 
 
 ![Copilot returns 5 Sales Orders from SAP](../images/J-5SalesOrders.png)

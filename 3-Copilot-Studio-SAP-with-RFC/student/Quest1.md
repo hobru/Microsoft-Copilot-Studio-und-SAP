@@ -38,7 +38,8 @@ SAP Password: <as shared>
 
 
 Now you are ready to connect to the SAP system. Enter the SAP System name and RFC name as follows:
-SAP System: ````json
+SAP System: 
+````json
 {"AppServerHost": "10.15.0.6", "Client": 400, "SystemNumber":"01", "LogonType":"ApplicationServer"}
 ````
 RFC name: BAPI_SALESORDER_GETSTATUS
