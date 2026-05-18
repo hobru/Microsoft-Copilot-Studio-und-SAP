@@ -57,7 +57,9 @@ Click on **Add and configure** to add the new MCP Server to your Copilot Studio 
 
  ![Add and configure](../images/quest6/step06.png) 
  
+As before to simplify the setup, select the **Maker Provider** COnfiguration and click on **Save**
 
+ ![Add and configure](../images/quest5/01-MakerProvided.png) 
 
 # Where to next?
 

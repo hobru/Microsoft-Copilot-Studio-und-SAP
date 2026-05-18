@@ -10,7 +10,7 @@
 #Requires -Modules Microsoft.Graph.Users, Microsoft.Graph.Groups, Microsoft.Graph.Identity.SignIns
 
 param(
-    [string]$SourceDomain = "M365x49933862.onmicrosoft.com",
+    [string]$SourceDomain = "tws22.onmicrosoft.com",
     [int]$StartWith = 1,
     [switch]$WhatIf
 )

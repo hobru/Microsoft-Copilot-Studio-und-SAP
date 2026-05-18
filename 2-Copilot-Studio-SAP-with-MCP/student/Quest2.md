@@ -10,7 +10,7 @@ At the same time, Azure API Management gives API owners powerful control and obs
 ### 4.1.1. Open Azure API Management in the Azure Portal:
 Open a new browser tab and open the link:
 
-https://portal.azure.com/#@tws22.onmicrosoft.com/resource/subscriptions/0973cd86-8527-4a13-a1c8-b3431c0e1fde/resourceGroups/techXChange2026-apim/providers/Microsoft.ApiManagement/service/techxchangeapim/overview
+https://portal.azure.com/#@tws22.onmicrosoft.com/resource/subscriptions/0973cd86-8527-4a13-a1c8-b3431c0e1fde/resourceGroups/syntax2026-apim/providers/Microsoft.ApiManagement/service/syntax2026apim/apim-apis
 
 
 ### 4.1.2. Accept Permissions

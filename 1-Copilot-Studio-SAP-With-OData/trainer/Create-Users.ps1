@@ -9,7 +9,7 @@
 #Requires -Modules Microsoft.Graph.Users, Microsoft.Graph.Identity.DirectoryManagement
 
 param(
-    [string]$DefaultPassword = "Student@2026!",
+    [string]$DefaultPassword = "Microsoft+Syntax@2026!",
     [string]$Domain = "tws22.onmicrosoft.com",
     [int]$StartWith = 1,
     [switch]$WhatIf

@@ -9,32 +9,8 @@ In the **Test your agent** screen, enter a question, e.g. ```Show me 5 sales ord
 
  ![Enter ask the first question](../images/quest7/step01.png) 
 
-Since we are now testing the agent as an end-user we need to authenticate to the MCP server. Click on **Open connection manager** to open the connection options
 
- ![Open Connection](../images/quest7/step02.png) 
- 
-
-In our case we don’t need to provide any additional authentication details. Just click on **Connect**
-
- ![Manage your connections](../images/quest7/step03.png) 
-
- 
-
-The connection should now show a successful connection. Click on **Submit** 
-
- ![Submit Connections](../images/quest7/step04.png) 
- 
-With the status of the connection now showing *Connected*, switch back to the browser window with Copilot Studio
-
- ![Show connected](../images/quest7/step05.png) 
- 
-
-Where you can click on **Retry** or enter your question again:
-
- ![Retry question](../images/quest7/step06.png) 
- 
-
-Now the call to the MCP Server should be executed. You can see that the *getEntitiesFromSalesOrderSet* has been executed. 
+The call to the MCP Server should be executed. You can see that the *getEntitiesFromSalesOrderSet* has been executed. 
 
  ![Get answer](../images/quest7/step07.png) 
  
