@@ -4,7 +4,6 @@
 
 Nachdem die **Syntax Xperience Day 2026** tolle Einblicke in KI, SAP und Microsoft gegeben hat und die **Sapphire 2026** ebenfalls spannende Integrationen verspricht, freuen wir uns sehr auf unseren **Syntax & Microsoft Hackathon: Microsoft & SAP Integration**.
 
-After great insights into AI, SAP, and Microsoft at the **Syntax Xperience Day 2026**, and exciting integrations promised at **Sapphire 2026**, we are thrilled to invite you to our **Syntax & Microsoft Hackathon: Microsoft & SAP Integration**.
 
 ---
 
@@ -23,7 +22,6 @@ Im Fokus der Veranstaltung steht die Kombination von **Microsoft Copilot Studio*
 
 🔔 Natürlich werden wir auch ein Update direkt nach der Sapphire geben und in vielen Gesprächen zeigen, wie die Integration von SAP und Microsoft funktioniert.
 
-The event focuses on combining **Microsoft Copilot Studio** and **SAP** — featuring hands-on integration scenarios, collaborative problem-solving, and direct exchange with experts. We will also share a fresh update straight from Sapphire and demonstrate how **SAP and Microsoft integration** works in practice.
 
 ---
 
