@@ -1,4 +1,4 @@
-# 🔌 2. Challenge 2: Calling Flows from an agent
+# Quest 2: Calling Flows from an agent
 [< 🤖 Quest 1](Quest1.md) - [🏠Home](../README.md)
 
 ## Calling a flow/workflow from the Agent

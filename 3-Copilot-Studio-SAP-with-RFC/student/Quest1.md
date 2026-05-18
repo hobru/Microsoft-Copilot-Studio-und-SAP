@@ -1,7 +1,7 @@
-# 🤖 1. Challenge 1: Getting started with RFC
+# Quest 1: Getting started with RFC
 [🏠Home](../README.md) - **[🔌 Quest 2 >](Quest2.md)**
 
-1.1. SAP ERP Connector
+## SAP ERP Connector
 As before the first step is to go to Tools and **+Add a tool**
 ![Add a tool to the agent](../images/C2-AddTool.png)
 

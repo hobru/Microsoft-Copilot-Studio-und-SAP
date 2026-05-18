@@ -1,7 +1,7 @@
-# 🔧 5. Challenge 5: Exposing APIs via MCP Server
+# Quest 5: Test the Agent
 [< 🔌 Quest 4](Quest4.md)  - **[Quest 6 >](Quest6.md)**
 
-## 7.1 Test the new Agent
+## Test the new Agent
 Now we are ready to test the new agent and access data from the SAP system
 
 

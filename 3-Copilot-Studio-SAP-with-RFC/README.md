@@ -2,7 +2,7 @@
 
 **[🤖 Quest 1 >](student/Quest1.md)**
 
-Although OData servicesare the recommended way to interact with your SAP system, RFCs and BAPIs are still used quite frequently. Especially in on-premises or ECC systems, thousands of RFCs are still available. 
+Although OData services are the recommended way to interact with your SAP system, RFCs and BAPIs are still used quite frequently. Especially in on-premises or ECC systems, thousands of RFCs are still available. 
 
 Copilot Studio (and the Power Platform) offer a very strong integration of BAPIs. For this customers need to install the on-premises data Gateway. We have done this already in our lab. 
 

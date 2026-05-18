@@ -1,4 +1,4 @@
-# 🔌 2. Challenge 2: Connect to SAP OData Services from Copilot Studio
+# Quest 2: Connect to SAP OData Services from Copilot Studio
 [< 🤖 Quest 1](Quest1.md) - [🏠Home](../README.md)
 
 ## Connecting Copilot Studio to OData

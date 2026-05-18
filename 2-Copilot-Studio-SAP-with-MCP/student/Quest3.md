@@ -1,9 +1,9 @@
-# 🔧 3. Challenge 3: Download SAP Metadata
+# Quest 3: Create an MCP Server
 [< 🔌 Quest 2](Quest2.md) - **[Quest 4 >](Quest4.md)**
 
- ## 5.1 Create an MCP Server
+## Create an MCP Server
 
-## 5.1.1. Navigate to MCP 
+### Navigate to MCP
 With this API now managed in Azure APIM, we can create an MCP Server out of it. Select **MCP Servers** on the left hand side
  ![MCP Server](../images/quest5/step01.png) 
 

@@ -1,7 +1,7 @@
-# 🔧 4. Challenge 4: Manage APIs in Azure API Management
+# Quest 4: Add the MCP Server to Copilot Studio
 [< 🔌 Quest 3](Quest3.md)  - **[Quest 5 >](Quest5.md)**
 
-## 6.1 Add the MCP Server to Copilot Studio
+## Add the MCP Server to Copilot Studio
 
 Now we are ready to test and integrate the MCP in Copilot Studio. 
 Go back to **Copilot Studio** windows and go to the **Agent**
