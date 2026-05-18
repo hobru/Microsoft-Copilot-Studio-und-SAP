@@ -1,18 +1,21 @@
 # 🔌 2. Challenge 2: Calling Flows from an agent
 [< 🤖 Quest 1](Quest1.md) - [🏠Home](../README.md)
 
-## Calling a flow from the Agent
+## Calling a flow/workflow from the Agent
 On the left hand side, click on Agents and select the **GWSAMPLE-BASE** agent we had previously created. 
 
 ![Select the GWSAMPLE-BASE agent](../images/D1-SelectAgent.png)
 
 Go to **Tools** and click on **+Add a tool**. 
 
-Select Flow and either search for **SAP Sales Order** or select the **SAP Sales Order Status Lookup** flow that we just created
+Select flow/workflow and either search for **SAP Sales Order** or select the **SAP Sales Order Status Lookup** flow/workflow that we just created
 
 ![Select the SAP Sales Order Status Lookup flow](../images/D2-SelectFlow.png)
 
-Click on **Add and configure** to add the flow to your agent
+> Note:
+Sometimes updating the name of a flow/workflow takes some time. In case you don't see your **SAP Sales Order** flow, look for a flow/workflow named **Untitled**
+
+Click on **Add and configure** to add the flow/workflow to your agent
 
 ![Click Add and configure](../images/D3-AddAndConfigure.png)
 

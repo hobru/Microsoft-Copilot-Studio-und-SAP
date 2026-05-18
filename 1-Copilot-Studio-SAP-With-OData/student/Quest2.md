@@ -33,7 +33,7 @@ Once entered, click on **Add and configure**
 ![Click Add and configure](../images/H-AddAndConfigure.png)
 
 
-To simplify the interaction, expand the **Details** section and under **Additional details** change the **Credentials to use** to **Maker-provided credentials**
+To simplify the interaction, expand the **Details** section and under **Additional details** change the **Credentials to use** to **Maker-provided credentials**. Then click on **Save**
 
 ![Set Maker-provided credentials](../images/I-MakerProvidedCredentials.png)
 
@@ -48,6 +48,15 @@ You can see that Copilot Studio was able to identify the right tool (e.g. Query 
 You can do similar query with:
 * ````Show me 3 products````
 * ````Show me 3 business partners````
+
+
+> Note:
+If the lookup does not work and the agent is not able to connect to the SAP OData service, then give it some help. Go to **Tools**, **Query OData entties**, **Inputs**, **Additional details** and change the **description** to 
+````text
+Typically the following entities are available: SalesOrderSet, ProductSet and BusinessPartnerSet
+````
+
+![Change the description](../images/AA-AdditionalDescription.png)
 
 
 ## Summary

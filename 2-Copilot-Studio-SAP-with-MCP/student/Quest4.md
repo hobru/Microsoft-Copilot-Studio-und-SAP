@@ -32,7 +32,7 @@ This MCP Server provides read-only access to Business Partner, Products and Sale
 ```
 * Server URL: 
 ```text
-https://techxchangeapim.azure-api.net/student0XX-sap-products-business-partner-and-sales-orders/mcp
+https://syntax2026apim.azure-api.net/student030-sap-products-business-partner-and-sales-orders/mcp
 ``` 
 (use the one that you created in the last step of Quest 5 before)
 

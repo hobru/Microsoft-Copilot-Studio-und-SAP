@@ -26,6 +26,8 @@ For this hackathon we have prepared everything for you. However, you can also re
 * SAP Backend System (you can use a Service from the [SAP API Business Hub](https://api.sap.com))
 
 
+> Note:
+In this lab we are going not only to consume an MCP Server in Copilot Studio, but also to create an MCP Server in Azure API Management. If you don't want to create your own MCP Server, you can also jump directly to the [Copilot Studio Conifugration](student/Quest4.md) and use the MCP Server that was already created for you, e.g. https://syntax2026apim.azure-api.net/student030-sap-products-business-partner-and-sales-orders/mcp
 
 
 ## 📢Feedback
