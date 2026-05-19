@@ -7,6 +7,9 @@ Now we are ready to test and integrate the MCP in Copilot Studio.
 Go back to **Copilot Studio** windows and go to the **Agent**
 If you do not have the Agent open anymore, click on Agents and select your Agent
 
+> Note: 
+> Feel free to create a new Agent, e.g. GWSAMPLE - MCP
+
  ![Go to Agents](../images/quest6/step01a.png) 
 
 From the **Tools** menu, click on **+Add a tool**

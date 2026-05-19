@@ -34,7 +34,7 @@ student0**25**@tws22.onmicrosoft.com
 ## Getting started
 ### Prepare the User
 #### Open Outlook:
-Just to ensure that user-credentials are working and to setup MFA, open https://outlook.office.com
+Just to ensure that user-credentials are working and to setup MFA, open http://copilotstudio.microsoft.com/ 
 
 > [!NOTE]
 > You might want to start a "New InPrivate Window" in your browser
@@ -80,14 +80,11 @@ Capture the QR Code with your phone and click on **Next** in the Browser
 #### Click on Yes to stay signed-in 
 ![Stay signed-in](../2-Copilot-Studio-SAP-with-MCP/images/quest1/step09.png)
  
-#### If required, click on Continue
-![Continue](../2-Copilot-Studio-SAP-with-MCP/images/quest1/step10.png)
  
 
-You should now have access to your users Outlook and MFA is setup and configured. 
+You should now have access to Copilot Studio and MFA is setup and configured. 
 
 
-Now let's try to connect to Copilot Studio first by opening http://copilotstudio.microsoft.com/ 
 > Loading Copilot Studio for the very first time, can take some time. So even if the studio does not load immediately, just wait and continue with the next steps. 
 
 

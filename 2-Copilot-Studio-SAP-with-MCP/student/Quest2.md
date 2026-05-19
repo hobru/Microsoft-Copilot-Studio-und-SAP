@@ -12,6 +12,9 @@ Open a new browser tab and open the link:
 
 https://portal.azure.com/#@tws22.onmicrosoft.com/resource/subscriptions/0973cd86-8527-4a13-a1c8-b3431c0e1fde/resourceGroups/syntax2026-apim/providers/Microsoft.ApiManagement/service/syntax2026apim/apim-apis
 
+> Note: 
+The following steps might not be required and you can just skip over the documented authentication steps and continue with [Import your API](#import-your-api)
+
 
 ### Accept Permissions
 Click on **Accept**

@@ -35,7 +35,7 @@ Im Fokus der Veranstaltung steht die Kombination von **Microsoft Copilot Studio*
 | 10:00 – 11:15 | 🧪 [Lab Experience: Copilot Studio & SAP OData](./1-Copilot-Studio-SAP-With-OData/) |
 | 11:15 – 11:30 | ☕ Break |
 | 11:30 – 12:00 | Die Zukunft von Agentic AI: Copilot (Studio) & SAP Joule |
-| 10:30 – 11:15 | 🧪 [Copilot Studio & SAP with MCP](./2-Copilot-Studio-SAP-with-MCP/) *(Gruppe 2)* |
+| 10:30 – 11:15 | 🧪 [Lab Experience: Copilot Studio & SAP with MCP](./2-Copilot-Studio-SAP-with-MCP/)  |
 | 13:00 – 13:30 | 🍽️ Lunch Break |
 | 13:30 – 14:00 | Introduction: ERP Connector |
 | 14:00 – 14:15 | 💡 Project Insights: Ascorium |
