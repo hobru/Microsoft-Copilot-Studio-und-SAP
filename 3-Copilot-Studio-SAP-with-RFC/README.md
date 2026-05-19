@@ -6,7 +6,7 @@ Although OData services are the recommended way to interact with your SAP system
 
 Copilot Studio (and the Power Platform) offer a very strong integration of BAPIs. For this customers need to install the on-premises data Gateway. We have done this already in our lab. 
 
-In order to get started, go back to Copilot Studio and disable the Query OData entities and MCP Server integration we created previously. 
+If you want you can create a new Agent, e.g. **GWSAMPLE - RFC**. If you want to resuse your existing agent, please go back to Copilot Studio and disable the Query OData entities and MCP Server integration we created previously. 
 
 > [!NOTE]
 > This is just to ensure that in our test not the previous tools are being called. In a real scenario the description of the individual tools would ensure that the right tool is called.

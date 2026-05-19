@@ -41,7 +41,7 @@ and click on **Create**
 Now your MCP Server has been created click on **Copy** to note down the URL of your MCP Server (e.g. copy it to Notepad), 
 e.g. 
 ```text
-https://techxchangeapim.azure-api.net/trainer001-sap-products-business-partner-and-sales-orders/mcp
+https://syntax2026apim.azure-api.net/student030-sap-products-business-partner-and-sales-orders/mcp
 ```
 
  ![Copy and note down URL](../images/quest5/step07.png) 
