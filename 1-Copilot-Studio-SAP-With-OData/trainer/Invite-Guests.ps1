@@ -1,7 +1,7 @@
 # ============================================================
 # Invite-StudentGuests.ps1
 # Invites student001-030 as B2B guest users into this tenant
-# and adds them to the "DSAG TechXChange 2026" group
+# and adds them to the "Syntax & Microsoft Hackathon 2026" group
 # ============================================================
 # Prerequisites:
 #   Install-Module Microsoft.Graph -Scope CurrentUser
@@ -27,7 +27,7 @@ if (-not $context) {
 Write-Host "Connected as: $($context.Account)" -ForegroundColor Green
 
 # ── Config ───────────────────────────────────────────────────
-$groupId       = "e43d9d58-0b3e-4c23-aa96-978079105c74"  # "DSAG TechXChange 2026"
+$groupId       = "e43d9d58-0b3e-4c23-aa96-978079105c74"  # "Syntax & Microsoft Hackathon 2026"
 $inviteRedirectUrl = "https://myapps.microsoft.com"       # Where users land after accepting invite
 
 # ── Verify group exists ───────────────────────────────────────

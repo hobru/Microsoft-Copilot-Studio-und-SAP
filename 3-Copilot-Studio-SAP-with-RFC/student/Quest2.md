@@ -12,8 +12,8 @@ Select flow/workflow and either search for **SAP Sales Order** or select the **S
 
 ![Select the SAP Sales Order Status Lookup flow](../images/D2-SelectFlow.png)
 
-> Note:
-Sometimes updating the name of a flow/workflow takes some time. In case you don't see your **SAP Sales Order** flow, look for a flow/workflow named **Untitled**
+> [!NOTE]
+> Sometimes updating the name of a flow/workflow takes some time. In case you don't see your **SAP Sales Order** flow, look for a flow/workflow named **Untitled**
 
 Click on **Add and configure** to add the flow/workflow to your agent
 

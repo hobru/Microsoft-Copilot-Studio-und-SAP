@@ -58,7 +58,9 @@ As a final step we need to tell the Agent flow what to return to the agent. For 
 
 As before select Text and then provide a name **Sales Order Status** for the variable and via the flash icon select Body
 
-> Note: You will have to click on **See more (52)** first to get the full list
+> [!NOTE]
+> You will have to click on **See more (52)** first to get the full list
+
 ![Click See more to expand the list](../images/C12-SeeMore.png)
 
 so that you can select **Body**
@@ -79,8 +81,8 @@ In the Overview Tab, click on the **Untitled** name and change it to ````SAP Sal
 
 Then on the right under *Connection references* click on **Manage** and change and select the Connection that you had previously created. You will be prompted if you are sure to change the connection. Click on **OK** and then **Save**
 
->Note: 
-This simplifies the interaction from the agent later on. For Single Sign-On we would keep this as is. 
+> [!NOTE]
+> This simplifies the interaction from the agent later on. For Single Sign-On we would keep this as is.
 
 ![Change the connection reference](../images/C17-ChangeConnection.png)
 

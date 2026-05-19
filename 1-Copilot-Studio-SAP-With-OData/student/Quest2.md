@@ -50,8 +50,8 @@ You can do similar query with:
 * ````Show me 3 business partners````
 
 
-> Note:
-If the lookup does not work and the agent is not able to connect to the SAP OData service, then give it some help. Go to **Tools**, **Query OData entties**, **Inputs**, **Additional details** and change the **description** to 
+> [!NOTE]
+> If the lookup does not work and the agent is not able to connect to the SAP OData service, then give it some help. Go to **Tools**, **Query OData entties**, **Inputs**, **Additional details** and change the **description** to
 ````text
 Typically the following entities are available: SalesOrderSet, ProductSet and BusinessPartnerSet
 ````

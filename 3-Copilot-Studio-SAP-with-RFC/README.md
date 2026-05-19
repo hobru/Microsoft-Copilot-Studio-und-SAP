@@ -8,8 +8,8 @@ Copilot Studio (and the Power Platform) offer a very strong integration of BAPIs
 
 In order to get started, go back to Copilot Studio and disable the Query OData entities and MCP Server integration we created previously. 
 
->Note:
-This is just to ensure that in our test not the previous tools are being called. In a real scenario the description of the individual tools would ensure that the right tool is called. 
+> [!NOTE]
+> This is just to ensure that in our test not the previous tools are being called. In a real scenario the description of the individual tools would ensure that the right tool is called.
 
 ![Disable OData and MCP tools in agent](images/C1-DisableTools.png)
 
