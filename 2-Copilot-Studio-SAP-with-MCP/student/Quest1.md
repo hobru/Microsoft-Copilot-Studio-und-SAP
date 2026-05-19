@@ -21,7 +21,7 @@ https://microsoftintegrationdemo.com:44301/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/$m
 
 
 ## Authenticate 
-Make sure to logon with the user **dsag2026** and the password provided:
+Make sure to logon with the user **SYNTAX01** and the password provided:
 ![Log on](../images/quest3/step01.png) 
   
 ## Save the file 
