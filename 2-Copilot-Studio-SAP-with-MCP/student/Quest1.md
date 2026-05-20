@@ -31,6 +31,11 @@ On your keyboard press **Strg-S** to save the file (or **right-click** -> **Save
 > You can keep the default filename: **$metadata**
 
 ![Save Metadata file](../images/quest3/step02.png) 
+
+> [!NOTE]
+> If you had issues with the **$metadata** files you can also use this file [$metadata file](../files/$metadata.xml)
+
+
  
 ## Convert this metadata file to an OpenAPI Specification. 
 For this we use the website https://witty-sand-02a41c00f.1.azurestaticapps.net/
@@ -43,9 +48,6 @@ Open the page, **select** “I agree” and click on **Get started**.
 Click on **Browse**, select the **$metadata** file you downloaded before and click on **Convert**. 
 ![Select metadata file](../images/quest3/step04.png) 
  
-> [!NOTE]
-> If you had issues with the **$metadata** files you can also use this file [$metadata file](../files/$metadata.xml)
-
 ## Download the converted file 
 Click on **Download $metadata-openapi.json** to download the now converted file 
 ![Save OpenAPI](../images/quest3/step05.png) 

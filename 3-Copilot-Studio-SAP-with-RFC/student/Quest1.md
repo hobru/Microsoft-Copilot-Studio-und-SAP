@@ -29,10 +29,10 @@ In the *Add an action* screen search for ````SAP ERP```` and select the **Call S
 ![Search for SAP ERP connector](../images/C7-SearchForERP.png)
 
 Since this is your first connection to the SAP system, you have to create a new connection. Enter the following values:
-Connection name: Connection to PM4
-Data Gateway: Select opdg-pm4
-SAP Username: SYNTAX01
-SAP Password: <as shared>
+* Connection name: Connection to PM4
+* Data Gateway: Select opdg-pm4
+* SAP Username: SYNTAX01
+* SAP Password: <as shared>
 
 ![Create new SAP connection](../images/C8-CreateNewConnection.png)
 
@@ -56,10 +56,11 @@ As a final step we need to tell the Agent flow what to return to the agent. For 
 
 ![Add an output to the flow response](../images/C11-AddOutput.png)
 
-As before select Text and then provide a name **Sales Order Status** for the variable and via the flash icon select Body
+As before select Text and then provide a name **Sales Order Status** for the variable and via the flash icon select **Body**
 
 > [!NOTE]
 > You will have to click on **See more (52)** first to get the full list
+> If you have not logged on in Englisch, the entry might also be called differently, e.g. **Text** in German
 
 ![Click See more to expand the list](../images/C12-SeeMore.png)
 
