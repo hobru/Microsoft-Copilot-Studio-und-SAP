@@ -29,10 +29,10 @@ In the *Add an action* screen search for ````SAP ERP```` and select the **Call S
 ![Search for SAP ERP connector](../images/C7-SearchForERP.png)
 
 Since this is your first connection to the SAP system, you have to create a new connection. Enter the following values:
-Connection name: Connection to PM4
-Data Gateway: Select opdg-pm4
-SAP Username: SYNTAX01
-SAP Password: <as shared>
+* Connection name: Connection to PM4
+* Data Gateway: Select opdg-pm4
+* SAP Username: SYNTAX01
+* SAP Password: <as shared>
 
 ![Create new SAP connection](../images/C8-CreateNewConnection.png)
 
