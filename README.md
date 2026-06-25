@@ -11,7 +11,7 @@ Nachdem die **Syntax Xperience Day 2026** tolle Einblicke in KI, SAP und Microso
 
 | | |
 |---|---|
-| **Datum / Date** | 20. Mai 2026, 09:00 – 16:00 |
+| **Datum / Date** | 23. Juli 2026 | 09:00 – 16:00 Uhr |
 | **Ort / Location** | Idea Factory – Höhnerweg 2–4, 69469 Weinheim |
 
 ---
@@ -59,7 +59,7 @@ Im Fokus der Veranstaltung steht die Kombination von **Microsoft Copilot Studio*
 
 ## ➡️ Anmeldung / Registration
 
-**[🔗 Jetzt anmelden / Register here](https://forms.office.com/Pages/ResponsePage.aspx?id=FoihR0Mg0EyL9ODJQtjC1i_crxN6AHZErYdYZbOwqedUM1NDWkk4N1hONFRXNDhMV0MwQ004RTBMVS4u)**
+**[🔗 Jetzt anmelden / Register here](https://forms.office.com/Pages/ResponsePage.aspx?id=FoihR0Mg0EyL9ODJQtjC1i_crxN6AHZErYdYZbOwqedUQUdDREQwUlJYUEQ2MUI3U0lCV0lZVDhNNS4u)**
 
 
 ---
