@@ -10,7 +10,7 @@ In order to better understand how an OData service behaves, let's get started by
 https://microsoftintegrationdemo.com:44301/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/
 ````
 
-Login with the user **SYNTAX01**
+Login with the user **SYNTAX**
 
 As a result you can see the technical response of the OData service.
 ![OData service root response](../images/1-odata.png)
