@@ -10,7 +10,7 @@ At the same time, Azure API Management gives API owners powerful control and obs
 ### Open Azure API Management in the Azure Portal:
 Open a new browser tab and open the link:
 
-https://portal.azure.com/#@tws22.onmicrosoft.com/resource/subscriptions/0973cd86-8527-4a13-a1c8-b3431c0e1fde/resourceGroups/syntax2026-apim/providers/Microsoft.ApiManagement/service/syntax2026apim/apim-apis
+https://portal.azure.com/#@tws22.onmicrosoft.com/resource/subscriptions/0973cd86-8527-4a13-a1c8-b3431c0e1fde/resourceGroups/syntax2026apim/providers/Microsoft.ApiManagement/service/syntax2026apim/overview
 
 > [!NOTE]
 > The following steps might not be required and you can just skip over the documented authentication steps and continue with [Import your API](#import-your-api)
