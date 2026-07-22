@@ -22,7 +22,7 @@ In the first step we need to create a connection to the SAP system. Click on **C
 
 The SAP OData Connector in Copilot Studio allows you to browse available Entity Sets. So enter the OData Base URI for the GWSAMPLE Service:
 * OData Base URI: https://microsoftintegrationdemo.com:44301/sap/opu/odata/IWBEP/GWSAMPLE_BASIC/
-* Username: SYNTAX01
+* Username: SYNTAX
 * Password: <as provided>
 
 ![Enter OData connection details](../images/G-EnterConnectionDetails.png)
