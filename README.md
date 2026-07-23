@@ -4,6 +4,7 @@
 
 Nachdem die **Syntax Xperience Day 2026** tolle Einblicke in KI, SAP und Microsoft gegeben hat und die **Sapphire 2026** ebenfalls spannende Integrationen verspricht, freuen wir uns sehr auf unseren **Syntax & Microsoft Hackathon: Microsoft & SAP Integration**.
 
+> 📄 **Workshop-Präsentation / Workshop slides:** [Syntax – Copilot Studio + SAP Workshop (PDF)](./docs/Syntax-Copilot-Studio-SAP-Workshop.pdf)
 
 ---
 
